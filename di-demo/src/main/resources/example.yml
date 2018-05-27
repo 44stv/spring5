@@ -1,0 +1,21 @@
+# comment
+name: Stas
+
+names:
+  - Stas
+  - Oleg
+  - Andriy
+
+string-val: "string"
+
+include_new_lines: |
+  sdasdfd
+  asdfasd
+  asfasdf
+  asfasdf
+
+ignore_new_lines: >
+  aasasdfa
+  asdfasdf
+  asdfasdf
+  asdfasdf

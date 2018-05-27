@@ -1,0 +1,11 @@
+guru:
+  jms:
+    username: username
+    password: pass
+    url: url
+---
+spring:
+  profiles: ua
+guru:
+  jms:
+    username: юзер
